@@ -1,0 +1,22 @@
+
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    padding: 1rem 0;
+    text-align: center;
+  }
+  
